@@ -164,6 +164,9 @@ a:hover{
     line-height: 45px;
     z-index: 1;
 }
+.img-responsive{
+    max-width: 50%;
+}
 .mv_search_icon {
     display: block;
     text-align: center;
